@@ -38,8 +38,8 @@
 <div>  
   <a href = "https://mail.google.com/mail/u/0/#advanced-search/to=gabsildomingos%40gmail.com&query=in%3Asent&isrefinement=true&todisplay=Gabriel+Silva+Domingos?compose=DmwnWstzVFsCWkvHdNQPKJvQcKLWJNDHGBkWsCqfTVHDChwbZLJjFCChftFjTtQjJZjBjBJRJHtb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-silva-domingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-  ![snake gif](https://github.com/zZGabsZz/zZGabsZz/blob/output/github-contribution-grid-snake.gif)
-
 </div>
+
+## <img align="center" alt="Github" height="30" width="30" color="white" src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" /> Github Commits
+
+![snake_gif](https://github.com/zZGabsZz/zZGabsZz/blob/output/github-snake-dark.svg)
