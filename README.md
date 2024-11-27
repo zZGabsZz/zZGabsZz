@@ -40,6 +40,4 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-domingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## <img align="center" alt="Github" height="30" width="30" color="white" src="https://cdn-icons-png.flaticon.com/128/15466/15466168.png" /> Github Commits
-
 ![snake_gif](https://github.com/zZGabsZz/zZGabsZz/blob/output/github-snake-dark.svg)
