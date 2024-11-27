@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Domingos
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Gabriel+Domingos)](https://git.io/typing-svg) 
 
 - 🔭 Hoje sou estudante do Ensino Médio e estou cursando ensino técnico
 - 🌱 Estudando Java e React
